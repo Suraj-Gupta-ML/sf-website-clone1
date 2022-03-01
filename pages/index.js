@@ -253,7 +253,7 @@ export default function Home() {
                 <div className="item">
                     <div className="row">
                         <div className="col-md-4 itm1">
-                              <img src="assets/images/jombay-logo.png" />
+                              <img src="assets/images/jombay-logo.png" alt=""/>
                           </div>
                           <div className="col-md-8 ">
                             <div>
@@ -261,7 +261,7 @@ export default function Home() {
                               <p>The support from SnappyFlow team both in onboarding and building the custom module has been fantastic and I really appreciate their ability to quickly meet our unique needs in a very short span.</p>
                             </div>
                               <div className="padLeft10 padBottom20 modal-open">
-                                <div className="col-md-2"><img src="assets/images/prashant_chaudhari.png" /></div>
+                                <div className="col-md-2"><img src="assets/images/prashant_chaudhari.png" alt=""/></div>
                                 <div className="sub_title col-md-10">
                                   <span className="fontStyle">Prashant Chaudhari</span>
                                   <div className="title_desc">Head of Engineering & Founding team member at Jombay</div>
@@ -274,7 +274,7 @@ export default function Home() {
                 <div className="item">
                     <div className="row">
                         <div className="col-md-4 itm1">
-                              <img src="assets/images/exovion-logo.png" />
+                              <img src="assets/images/exovion-logo.png" alt=""/>
                           </div>
                           <div className="col-md-8 ">
                             <div>
@@ -284,7 +284,7 @@ export default function Home() {
                               <p>Ezovion is an AI based SaaS healthcare platform transforming healthcare delivery across hundreds of Hospitals, Clinics, Labs, and Pharmacies to improve patient outcomes.</p>
                             </div>
                               <div className="padLeft10 padBottom20 modal-open">
-                                <div className="col-md-2"><img src="assets/images/Kasiviswanathan.png" /></div>
+                                <div className="col-md-2"><img src="assets/images/Kasiviswanathan.png" alt=""/></div>
                                 <div className="sub_title col-md-10">
                                   <span className="fontStyle">Kasiviswanathan Shanmugam</span>
                                   <div className="title_desc">Managing Director</div>
@@ -297,7 +297,7 @@ export default function Home() {
                 <div className="item ">
                       <div className="row">
                           <div className="col-md-4">
-                              <img src="assets/images/cavirin-logo.png" />
+                              <img src="assets/images/cavirin-logo.png" alt=""/>
                           </div>
                           <div className="col-md-8">
                               <div>
@@ -307,7 +307,7 @@ export default function Home() {
                               </p>
                               </div>
                               <div className="padLeft10 padBottom20 modal-open">
-                                <div className="col-md-2"><img src="assets/images/Brajesh_Goyal.png" /></div>
+                                <div className="col-md-2"><img src="assets/images/Brajesh_Goyal.png" alt=""/></div>
                                 <div className="sub_title col-md-10 " >
                                   <span className="fontStyle">Brajesh Goyal</span>
                                   <div className="title_desc">VP Engineering</div>
