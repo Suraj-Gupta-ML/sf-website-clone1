@@ -1,0 +1,15 @@
+<svg id="logs-icon" xmlns="http://www.w3.org/2000/svg" width="33.524" height="33.524" viewBox="0 0 33.524 33.524">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #045d7f;
+      }
+    </style>
+  </defs>
+  <path id="Path_826" data-name="Path 826" class="cls-1" d="M0,0H33.524V33.524H0Z"/>
+  <path id="Path_827" data-name="Path 827" class="cls-2" d="M9.774,21.817H21.322v2.831H9.774Zm0-5.662H21.322v2.831H9.774ZM18.435,2H6.887A2.868,2.868,0,0,0,4,4.831V27.479A2.855,2.855,0,0,0,6.873,30.31H24.209A2.868,2.868,0,0,0,27.1,27.479V10.493Zm5.774,25.479H6.887V4.831h10.1v7.078h7.218Z" transform="translate(1.214 0.607)"/>
+</svg>
